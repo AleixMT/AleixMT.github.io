@@ -17,7 +17,7 @@ title: Aleix Mariné-Tena
 email: aleixaretra@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   All about me
-author: @AleixMT
+author: AleixMT
 
 # Apparently, the deployment to github 4 pages sets the fields baseurl and url for us
 baseurl: "" # the subpath of your site, e.g. /blog
