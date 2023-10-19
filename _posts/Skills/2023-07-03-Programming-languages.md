@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programming-languages
+title: Programming languages
 permalink: /Skills/Programming-languages/
 parent: Skills
 has_children: true
