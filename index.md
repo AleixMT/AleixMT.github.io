@@ -21,7 +21,7 @@ layout: home
 
 <!-- TODO: Add data then delete this block -->
 <div align="center">
-     <font size="4">This blog is still under construction</font>
+     <font size="4">This portfolio is still under construction</font>
 </div>
 
 <br><br>
