@@ -14,7 +14,7 @@ layout: home
 
 <!-- Cover image -->
 <div align="center">
-     <font size="10">Here you can find everything about me.</font>
+     <font size="7">Here you can find everything about me.</font>
 </div>
 
 
