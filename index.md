@@ -9,8 +9,14 @@ layout: home
 <!-- Cover image -->
 <div id="image-table" align="center">
     <img src="https://media.tenor.com/_HPofCxgZcAAAAAC/mr-robot-elliot-alderson.gif"/>
+</div>
+
+<!-- Cover image -->
+<div align="center">
     Here you can find everything about me.
 </div>
+    
+
 
 <!-- Social media -->
 <h3 align="center">Connect with me:</h3>
