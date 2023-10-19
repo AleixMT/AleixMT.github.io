@@ -19,6 +19,12 @@ layout: home
 
 <br><br>
 
+<!-- TODO: Add data then delete this block -->
+<div align="center">
+     <font size="4">This blog is still under construction</font>
+</div>
+
+<br><br>
 
 
 
