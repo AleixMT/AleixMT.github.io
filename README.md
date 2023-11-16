@@ -1,5 +1,5 @@
-# ICIQ-DMP.github.io
-Contains the documentation of the DMP projects, mainly eChempad.
+# AleixMT.github.io
+Contains the files that are used to deploy my portfolio.
 
 ## Exhaustive list of the dependencies of the github 4 pages
 Here are [the dependencies of github 4 pages](https://pages.github.com/versions/). Specifically, Jekyll version is 3.9.3
