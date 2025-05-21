@@ -5,8 +5,6 @@
 layout: home
 ---
 
-hellooooo
-
 <!-- Cover image -->
 <div id="image-table" align="center">
     <img src="https://media.tenor.com/_HPofCxgZcAAAAAC/mr-robot-elliot-alderson.gif"/>
