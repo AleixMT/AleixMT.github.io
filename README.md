@@ -62,5 +62,8 @@ sudo docker build -t iciq-dmp-docs .
 sudo docker-compose up -d
 ```
 
+### Roadmap
+Docker support for local building with hot reload
+
 
 
